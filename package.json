@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skcode0/nodejs-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skcode0/nodejs-basics/issues"
+  },
+  "homepage": "https://github.com/skcode0/nodejs-basics#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
